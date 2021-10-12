@@ -1,3 +1,1 @@
 # ADHealthCheck
-
-Just another test
